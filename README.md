@@ -28,9 +28,9 @@ Esta é a planilha mais importante! Ela contém 4 colunas com informações sobr
 | Tipo de Pagamento | Forma de pagamento utilizada | Crédito |
 
 ### 2. **Linha do Tempo** (Visualização Gráfica e Linha do Tempo)
--Contém resumos de vendas
--Possui uma linha do tempo para filtrar períodos
--Filtro por tipo de pagamento
+- Contém resumos de vendas
+- Possui uma linha do tempo para filtrar períodos
+- Filtro por tipo de pagamento
 
 
 
